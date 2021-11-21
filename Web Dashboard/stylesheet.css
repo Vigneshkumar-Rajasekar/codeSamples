@@ -1,0 +1,46 @@
+		.podCss
+		{
+			height: 200px;
+			width : 200px;
+			background-color: rgb(255,248,100);
+		}	
+		.podCssCtnr
+		{
+			height: 30px;
+			/* width : 200px; */
+			background-color: blue;
+		}
+		.partitionCss
+		{
+			/* height: 230px; */
+			width : 5px;
+			background-color: blue;
+		}
+		.partitionCssCntr
+		{
+			height: 30px;
+			width : 5px;
+			background-color: blue;
+		}
+		HR
+		{
+			border-bottom: 1px solid black;
+			padding: 0px;
+			margin: 0px;
+		}
+		.dataMatch
+		{
+			background-color: greenyellow;
+		}
+		.dataNotMatch
+		{
+			background-color: orange;
+		}
+		.noData
+		{
+			background-color: '';
+		}
+		.noData hr
+		{
+			display: none;
+		}
