@@ -1,0 +1,33 @@
+Hi Reviewer,
+
+I attached samples of my codes and formats which can show what technologies and details I experienced with. 
+-> These samples are just 5 to 10% of my real time work. Behalf of code review, I created a new project and written some piece of code with junit test cases to represent the nature of work. 
+-> And for web application, copied a piece of code for which I was rewarded and recognized as star performance of the year. 
+-> The particular dashboard application was the highly selling point in 2018 for our Europe clients. "Mentioned this to Mr.Jonathan El-Sharkawy" and he was very much impressed. That's why I attached the dashboard image which was sent from Philips Warehouse.
+
+I attached 2 set of codes as mentioned below,
+1. Microservice-Boot
+2. Web Dashboard
+-----------------------------------------------
+
+1. Microservice-Boot
+----------------------
+-> I created a sample maven project in java with spring boot 2.6.0
+-> Developed a sample java class with Rest controller to get 3 different mapping. 1 is just returning string for the url, 2 is returning a pojo class as JSON, 3 is returning a JSON with respect to input argument.
+-> Written a junit cases running with SpringJUnit4ClassRunner.class
+-> To host a dummy service, I used MockMvcBuilders.
+-> To get the mock request, I used MockMvcRequestBuilders
+-> To compare the string output, I used MockMvcResultMatchers.content()
+-> To compare the JSON output, I used MockMvcResultMatchers.jsonPath()
+
+2. Web Dashboard
+----------------------
+-> Copied my operational dashboard screen HTML and javascript code pieces.
+-> By using native javascript and HTML, done this screen which gives very good look and feel like latest javascript libraries.
+-> Attached stylesheets to show sample styles.
+
+
+Note: I have given just a samples of all the codes. Ethically I should not reveal my live codes, thats why I attached some piece of codes and samples for microservices.
+
+Thanks & Regards,
+Vignehkumar.R
